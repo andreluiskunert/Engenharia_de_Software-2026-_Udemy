@@ -1,0 +1,6 @@
+PROCESSOS DE MANUTENÇÃO DE SOFTWARE
+Identificação de problemas através de relatórios de erro e
+feedback dos usuários
+Análise de impacto das correções ou melhorias propostas
+Implementação das alterações, testes de regressão e validação
+Documentação das mudanças realizadas

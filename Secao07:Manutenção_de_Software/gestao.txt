@@ -1,0 +1,6 @@
+GESTÃO DE CONFIGURAÇÃO DE MUDANÇAS
+Controle de versões e rastreamento de mudanças
+Ferramentas e práticas para controle de configuração e
+mudanças
+Integração contínua e entrega contínua para automação de
+processos
